@@ -1,32 +1,32 @@
 # Lab 9 Examples
 Abdullah Razzaq 
 24K-0691  
-BCS-3A  
+BCS-3A 
 
 ## Task 01
-<img width="293" height="44" alt="image" src="https://github.com/user-attachments/assets/ace65a56-702f-4941-a667-41cf9c2afcbb" />
-
-## Task 02
-### Bit Multiplication
+### Bit Multiplication (SHL)
 <img width="285" height="34" alt="image" src="https://github.com/user-attachments/assets/a0137420-692f-401c-a4ad-5f700f57a533" />
 
-## Task 03
-<img width="302" height="55" alt="image" src="https://github.com/user-attachments/assets/740a0dc3-a5f4-4641-bac3-ef7b78e531c7" />
-
-## Task 04
-### Bit Division
+## Task 02
+### Bit Division (SHR)
 <img width="305" height="53" alt="image" src="https://github.com/user-attachments/assets/5ff02296-0d59-45cb-a423-1543d66490a2" />
 
-## Task 05
-### Bit Signed Division
+## Task 03
+### Bit Signed Division (SAR)
 <img width="293" height="50" alt="image" src="https://github.com/user-attachments/assets/109993d5-3b49-4877-9b93-bb6fac492b4b" />
 
-## Task 06
-### Sign-Extend AX into EAX
+## Task 04
+### Sign-Extend AX into EAX (SHL + SAR)
 <img width="290" height="66" alt="image" src="https://github.com/user-attachments/assets/41386188-a86e-4c57-b61b-1788c3d51474" />
 
-## Task 07
-### Exchanging Groups of bits
+## Task 05
+### Exchanging Groups of bits (ROL)
 <img width="305" height="48" alt="image" src="https://github.com/user-attachments/assets/0a858ea7-9db4-4e0b-9156-17b05127d671" />
 
-## Task 02
+## Task 06
+### Example of ROR
+<img width="287" height="62" alt="image" src="https://github.com/user-attachments/assets/f7bd0451-8836-4f03-9721-ceced9d7df9b" />
+
+## Task 07
+### Example of RCL & RCR
+<img width="288" height="61" alt="image" src="https://github.com/user-attachments/assets/d60a4f92-eaa6-4131-b91d-81bf69b63c64" />
