@@ -4,4 +4,3 @@ Abdullah Razzaq
 BCS-3A 
 
 ## Question 01
-### Bit Multiplication (SHL)
