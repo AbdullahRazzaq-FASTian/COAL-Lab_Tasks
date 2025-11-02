@@ -1,32 +1,16 @@
-# Lab 9 Examples
+# Lab 9 Tasks
 Abdullah Razzaq 
 24K-0691  
 BCS-3A 
 
 ## Task 01
-### Bit Multiplication (SHL)
-<img width="285" height="34" alt="image" src="https://github.com/user-attachments/assets/a0137420-692f-401c-a4ad-5f700f57a533" />
+### For arrays {2,4,6,8,10} & {1,4,6,9,10}
+<img width="257" height="48" alt="image" src="https://github.com/user-attachments/assets/60a73280-a0c5-4dfc-8a7b-f6cdd621ca69" />
 
 ## Task 02
-### Bit Division (SHR)
-<img width="305" height="53" alt="image" src="https://github.com/user-attachments/assets/5ff02296-0d59-45cb-a423-1543d66490a2" />
+### For Students Scores {45,78,90,32,60,49,85}
+<img width="235" height="58" alt="image" src="https://github.com/user-attachments/assets/70686dae-3484-4b75-b10e-6c5d0e5fc844" />
 
 ## Task 03
-### Bit Signed Division (SAR)
-<img width="293" height="50" alt="image" src="https://github.com/user-attachments/assets/109993d5-3b49-4877-9b93-bb6fac492b4b" />
-
-## Task 04
-### Sign-Extend AX into EAX (SHL + SAR)
-<img width="290" height="66" alt="image" src="https://github.com/user-attachments/assets/41386188-a86e-4c57-b61b-1788c3d51474" />
-
-## Task 05
-### Exchanging Groups of bits (ROL)
-<img width="305" height="48" alt="image" src="https://github.com/user-attachments/assets/0a858ea7-9db4-4e0b-9156-17b05127d671" />
-
-## Task 06
-### Example of ROR
-<img width="287" height="62" alt="image" src="https://github.com/user-attachments/assets/f7bd0451-8836-4f03-9721-ceced9d7df9b" />
-
-## Task 07
-### Example of RCL & RCR
-<img width="288" height="61" alt="image" src="https://github.com/user-attachments/assets/d60a4f92-eaa6-4131-b91d-81bf69b63c64" />
+### For num1 = 6 & num2 = 5
+<img width="340" height="41" alt="image" src="https://github.com/user-attachments/assets/4fc42513-f8ab-4830-869a-201291116c60" />
